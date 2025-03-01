@@ -53,8 +53,8 @@
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kuldeep1125&theme=radical&margin-w=15&no-frame=true)
 
-### 🌟 Total Contributions
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kuldeep1125&theme=radical)
+### 📈 Total Contributions  
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kuldeep1125&theme=radical)
 
 ---
 
