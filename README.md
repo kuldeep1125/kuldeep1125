@@ -45,7 +45,8 @@
 ## 🛠 Projects
 
 Check out my latest project:  
-- [**Image Compressor Web App**](#) - A web app that compresses images efficiently.
+- [**Weather Dashboard**](https://github.com/kuldeep1125/myWeather-Dashboard) - A web app that displays weather forecasts based on searches
+
 
 ## 📬 Connect with Me
 
