@@ -33,7 +33,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=kuldeep1125&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kuldeep1125&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=kuldeep1125&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
 
