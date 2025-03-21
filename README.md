@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer | Java | Python Enthusiast
 
-🌍 Based in India  
+🌍 Based in PUNE MH INDIA  
 💻 Passionate about coding, learning, and building amazing applications.  
 🎯 Aspiring to work at leading tech companies  
 
